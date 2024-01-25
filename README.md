@@ -1,10 +1,10 @@
-I am a PhD candidate at Industrial Engineering & Management Sciences. My research focuses on adaptive experimental design, applied machine learning, and uncertainty quantification. 
+I am a PhD candidate at Industrial Engineering & Management Sciences. My research focuses on adaptive experimental design, applied machine learning, Gaussian processes, and uncertainty quantification. 
 
 ## Overview of public repositories
 
 ### Software libraries
 
-1. [lvgp-bayes](https://github.com/syerramilli/lvgp-bayes): A python library for estimating latent variable Gaussian process regression models using either or point estimation or fully Bayesian (i.e. MCMC) methods. 
+1. [lvgp-bayes](https://github.com/syerramilli/lvgp-bayes): A python library for estimating latent variable Gaussian process regression models using either point estimation or fully Bayesian (i.e. MCMC) methods. 
 2. [sysid](https://github.com/syerramilli/R-sysid): An R library for system-identification. 
 
 ### Lab / Tutorial archives from teaching assignments:
