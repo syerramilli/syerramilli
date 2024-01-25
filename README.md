@@ -1,4 +1,4 @@
-I am a PhD candidate at Industrial Engineering & Management Sciences. My research focuses on adaptive experimental design, applied machine learning, Gaussian processes, and uncertainty quantification. 
+I am a PhD candidate at Industrial Engineering & Management Sciences at Northwestern Universities. My research focuses on adaptive experimental design, applied machine learning, Gaussian processes, and uncertainty quantification. 
 
 ## Overview of public repositories
 
