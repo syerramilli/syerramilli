@@ -4,8 +4,9 @@ I am a PhD candidate at Industrial Engineering & Management Sciences at Northwes
 
 ### Software libraries
 
-1. [lvgp-bayes](https://github.com/syerramilli/lvgp-bayes): A python library for estimating latent variable Gaussian process regression models using either point estimation or fully Bayesian (i.e. MCMC) methods. 
-2. [sysid](https://github.com/syerramilli/R-sysid): An R library for system-identification. 
+1. [lvgp-bayes](https://github.com/syerramilli/lvgp-bayes): A python library for estimating latent variable Gaussian process regression models using either point estimation or fully Bayesian (i.e. MCMC) methods.
+2. [gp-bo](https://github.com/syerramilli/gp-bo): A python library for Bayesian optimization (BO) using Gaussian process as the surrogate model, built on top of [BoTorch](https://botorch.org/). While BoTorch has functions and classes for implementing BO, this library contains settings and models that I found to be useful in practice and in my research. The library can also be used with [Optuna](https://optuna.readthedocs.io/en/stable/).
+3. [sysid](https://github.com/syerramilli/R-sysid): An R library for system-identification.
 
 ### Lab / Tutorial archives from teaching assignments:
 
