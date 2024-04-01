@@ -8,6 +8,11 @@ I am a PhD candidate at Industrial Engineering & Management Sciences at Northwes
 2. [gp-bo](https://github.com/syerramilli/gp-bo): A python library for Bayesian optimization (BO) using Gaussian process as the surrogate model, built on top of [BoTorch](https://botorch.org/). While BoTorch has functions and classes for implementing BO, this library contains settings and models that I found to be useful in practice and in my research. The library can also be used with [Optuna](https://optuna.readthedocs.io/en/stable/).
 3. [sysid](https://github.com/syerramilli/R-sysid): An R library for system-identification.
 
+### Projects
+
+1. [LSTMs for Hangman game](https://github.com/syerramilli/hangman_solver): LSTM based approach for guessing the letters in the classic Hangman game.
+2. [BNN project](https://github.com/syerramilli/iems490bnn): Course project for evaluating several scalable approaches for Bayesian Neural Networks in terms of prediction accuracy, uncertainty quantification, and computation time.
+
 ### Lab / Tutorial archives from teaching assignments:
 
 1. [msia420-w2023-lab](https://github.com/syerramilli/msia420-w2023-lab): Python labs for the Winter 2023 iteration of MSIA 420 Predictive Analytics II
@@ -16,6 +21,5 @@ I am a PhD candidate at Industrial Engineering & Management Sciences at Northwes
 
 ### Miscellaneous:
 
-1. [BNN project](https://github.com/syerramilli/iems490bnn): Course project for evaluating several scalable approaches for Bayesian Neural Networks in terms of prediction accuracy, uncertainty quantification, and computation time.
-2. [Shiny apps](https://github.com/syerramilli/r-shiny-practice): Repository containing R shiny apps developed during interview prep
-3. [Kaggle notebooks](https://github.com/syerramilli/kaggle-notebooks): A collection of (mostly Python) notebooks run on the Kaggle platform.
+1. [Shiny apps](https://github.com/syerramilli/r-shiny-practice): Repository containing R shiny apps developed during interview prep
+2. [Kaggle notebooks](https://github.com/syerramilli/kaggle-notebooks): A collection of (mostly Python) notebooks run on the Kaggle platform.
