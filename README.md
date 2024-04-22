@@ -11,9 +11,9 @@ Google Scholar: https://scholar.google.com/citations?user=rIDtPLcAAAAJ&hl=en
 
 ### Software libraries
 
-1. [lvgp-bayes](https://github.com/syerramilli/lvgp-bayes): A python library for estimating latent variable Gaussian process regression models using either point estimation or fully Bayesian (i.e. MCMC) methods.
+1. [lvgp-bayes](https://github.com/syerramilli/lvgp-bayes): A python library for estimating latent variable Gaussian process regression models using either point estimation or fully Bayesian (i.e. MCMC) methods. Related publication: https://doi.org/10.1137/22M1525600
 2. [gp-bo](https://github.com/syerramilli/gp-bo): A python library for Bayesian optimization (BO) using Gaussian process as the surrogate model, built on top of [BoTorch](https://botorch.org/). While BoTorch has functions and classes for implementing BO, this library contains settings and models that I found to be useful in practice and in my research. The library can also be used with [Optuna](https://optuna.readthedocs.io/en/stable/).
-3. [sysid](https://github.com/syerramilli/R-sysid): An R library for system-identification.
+3. [sysid](https://github.com/syerramilli/R-sysid): An R library for system-identification. The library contains routines for input design, simulation and standard estimation methods for understanding the subject of and developing data-driven models for linear-time invariant (LTI) systems. Related publication: https://doi.org/10.1109/INDIANCC.2017.7846451
 
 ### Projects
 
