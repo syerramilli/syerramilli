@@ -18,7 +18,8 @@ Google Scholar: https://scholar.google.com/citations?user=rIDtPLcAAAAJ&hl=en
 ### Projects
 
 1. [LSTMs for Hangman game](https://github.com/syerramilli/hangman_solver): LSTM based approach for guessing the letters in the classic Hangman game.
-2. [BNN project](https://github.com/syerramilli/iems490bnn): Course project for evaluating several scalable approaches for Bayesian Neural Networks in terms of prediction accuracy, uncertainty quantification, and computation time.
+2. [Shiny apps](https://github.com/syerramilli/r-shiny-practice): Repository containing R shiny apps that I developed for showcasing various visualization aspects
+3. [BNN project](https://github.com/syerramilli/iems490bnn): Course project for evaluating several scalable approaches for Bayesian Neural Networks in terms of prediction accuracy, uncertainty quantification, and computation time.
 
 ### Lab / Tutorial archives from teaching assignments:
 
@@ -28,5 +29,4 @@ Google Scholar: https://scholar.google.com/citations?user=rIDtPLcAAAAJ&hl=en
 
 ### Miscellaneous:
 
-1. [Shiny apps](https://github.com/syerramilli/r-shiny-practice): Repository containing R shiny apps developed during interview prep
-2. [Kaggle notebooks](https://github.com/syerramilli/kaggle-notebooks): A collection of (mostly Python) notebooks run on the Kaggle platform.
+1. [Kaggle notebooks](https://github.com/syerramilli/kaggle-notebooks): A collection of (mostly Python) notebooks run on the Kaggle platform.
