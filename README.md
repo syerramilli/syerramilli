@@ -6,6 +6,7 @@ Kaggle: https://www.kaggle.com/syerramilli/code
 
 Google Scholar: https://scholar.google.com/citations?user=rIDtPLcAAAAJ&hl=en
 
+Gists: https://gist.github.com/syerramilli
 
 ## Overview of public repositories
 
