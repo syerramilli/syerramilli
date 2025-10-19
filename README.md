@@ -1,4 +1,4 @@
-I am a PhD candidate at Industrial Engineering & Management Sciences at Northwestern University. My research focuses on adaptive experimental design, applied machine learning, Gaussian processes, and uncertainty quantification. 
+I received my PhD Industrial Engineering & Management Sciences at Northwestern University. My research focuses on adaptive experimental design, applied machine learning, Gaussian processes, and uncertainty quantification. 
 
 Linkedin: https://www.linkedin.com/in/suraj-yerramilli/
 
